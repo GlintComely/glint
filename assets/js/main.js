@@ -120,8 +120,6 @@ async function setBackgroundImage(url, elementId) {
     }
 }
 
-setBackgroundImage('assets/img/bg.jpg', 'background');
-
 //计时器
 function updateTimer() {
     const startDate = new Date('2024-06-08T18:00:00');
