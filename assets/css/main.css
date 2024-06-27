@@ -173,7 +173,6 @@ body {
 #background {
     filter: blur(5px);
     transform: scale(1.05);
-    background-image: url("../img/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
